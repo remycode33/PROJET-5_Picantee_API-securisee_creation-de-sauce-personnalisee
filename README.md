@@ -12,7 +12,7 @@
 
 ### 3. _User Page_ : [User page](mockup/sauce-page.pdf) ⇱ (click here to go to the user page mockup)
 
-### 4. _Add Sauce_ : [Add-sauce page](mockup/add-sauce.pdf) ⇱ (click here to go to the add-sauce page mockup)
+### 4. _Add Sauce_ : [Add-sauce page](./sauce.html) ⇱ (click here to go to the add-sauce page mockup)
 
 ## II - The context :
 

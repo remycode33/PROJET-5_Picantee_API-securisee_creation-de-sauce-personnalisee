@@ -6,13 +6,15 @@
 
 ## I- Mockup/rendering of the website :
 
-### 1. _Login Page_ : [Login page](./login-page.pdf) ⇱ (click here to go to the login page mockup)
+### 1. _Login Page_ : [Login page](mockup/login-page.pdf) ⇱ (click here to go to the login page mockup)
 
-### 2. _Home Page_ : [Home page](docs/mockup/home-page.pdf) ⇱ (click here to go to the home page mockup)
+### 2. _Home Page_ : [Home page](./home-page.pdf) ⇱ (click here to go to the home page mockup)
 
 ### 3. _User Page_ : [User page](sauce-page.pdf) ⇱ (click here to go to the user page mockup)
 
-### 4. _Add Sauce_ : [Add-sauce page](docs/mockup/add-sauce.pdf) ⇱ (click here to go to the add-sauce page mockup)
+### 4. _Add Sauce_ : [Add-sauce page](mockup/add-sauce.pdf) ⇱ (click here to go to the add-sauce page mockup)
+
+[test](mockup/add-sauce.pdf)
 
 ## II - The context :
 
